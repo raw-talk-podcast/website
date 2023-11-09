@@ -83,6 +83,9 @@ table.center {
 .align-right {
   text-align: right;
 }
+.align-center {
+  align-items: center;
+}
 .left {
   float: left;
 }
@@ -350,11 +353,7 @@ table tr:nth-child(1) {
 }
 /* ---------------------------------------------------------------------------------------------- */
 /* team */
-@media (min-width:992px) {
-  #team .section-header {
-    display: none;
-  }
-}
+
 .tile-profile {
   padding: 5px;
 }
