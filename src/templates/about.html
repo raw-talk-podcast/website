@@ -1,0 +1,105 @@
+{% extends "page.html" %}
+{% block body %}
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
+      <p>
+      Raw Talk Podcast is a graduate student-run podcast all about medical science, and the people who make it happen.
+      We focus on the journeys, perspectives, and expertise of
+      health researchers, professionals, students, patients, and community members
+      at the University of Toronto and beyond.
+      We are based at the Institute of Medical Science in the Temerty Faculty of Medicine, at the University of Toronto.
+      </p><p>
+      Our mission is to stimulate medical science research
+      within the life sciences community at U of T and beyond;
+      to provide guidance to current and prospective graduate students;
+      and to engage and educate the public in medical science innovation and translational research.
+      </p>
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
+      <div class="row">
+        <img class="big-photo" src="/img/team/team-5.jpg">
+        </img>
+      </div>
+    </div>
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
+      <h3>Code of Conduct</h3>
+      <p>
+      Raw Talk is dedicated to creating an inclusive environment for everyone,
+      and we are committed to
+      highlighting issues of equity, diversity, and inclusion in STEM, and to
+      changing perceptions and challenging stereotypes within the medical science field.
+      Read more about our commitments in our Code of Conduct.
+      </p>
+      <a class="btn" href="/docs/RawTalkPodcast-CodeOfConduct.pdf" target="_blank">
+        <h4>Code of Conduct</h4>
+      </a>
+      <p>
+      Raw Talk Podcast would like to acknowledge the land on which the University of Toronto and the podcast operates.
+      For thousands of years it has been the traditional land of
+      the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River.
+      Today, this meeting place is still the home to many Indigenous people from across Turtle Island
+      and we are grateful to have the opportunity to work on this land.
+      </p>
+    </div>
+    <div class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
+      <h3>Support</h3>
+      <p>
+      Raw Talk Podcast has been supported since our founding by
+      the Institute of Medical Science in the Temerty Faculty of Medicine at the University of Toronto.
+      We are also grateful to our many supporters over the years, including
+      the University of Toronto
+        <a href="https://www.sgs.utoronto.ca">School of Graduate Studies</a>,
+        <a href="https://utgsu.ca">Graduate Student Union</a>,
+        <a href="https://studentlife.utoronto.ca/program/student-initiative-fund">Student Life</a>,
+        <a href="https://h2i.utoronto.ca">Health Innovation Hub</a>, and the
+        <a href="https://temertymedicine.utoronto.ca">Temerty Faculty of Medicine</a>,
+      as well as
+        <a href="https://uoft.me/rawtalkoffers">TD Insurance</a>,
+        <a href="https://uoft.me/rawtalkoffers">MBNA</a>,
+        <a href="https://jlabs.jnjinnovation.com/locations/jlabs-toronto">JLabs</a>,
+        <a href="https://invivo.com">INVIVO</a>,
+        <a href="https://choosemuse.com">MUSE</a>, and the
+        <a href="https://gairdner.org">Gairdner Foundation</a>.
+      </p>
+    </div>
+    <div class="section col-12 container center">
+      <h3>New Listener?</h3>
+      <p>Check out some of our favourite episodes</p>
+      <div class="row">
+        {% for episode in episodes if episode.no in [101,89,74] %}
+        <div id="{{episode.no}}" class="tile-highlight img-link col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4">
+          <a href="episode/{{episode.no}}">
+            <div class="tile-episode-header">
+              {{episode.title}}
+            </div>
+            <img class="episode-img-tile" src="/img/episode/{{episode.no}}/{{episode.img_tile}}"/>
+            <div class="img-link-hover">
+              <img class="img-link-hover-content" src="/img/icon/play.svg"/>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div id="amazon" class="section col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 center">
+      <h3>Love shopping on Amazon?</h3>
+      <h4>
+        <a href="https://www.amazon.ca/?tag=rawtalpod-20&camp=1&creative=319833">
+          Use our Affiliate Link!
+        </a>
+      </h4>
+      <p>
+        <span class="no-wrap">Raw Talk Podcast</span>
+        is a participant in the
+        <span class="no-wrap">Amazon Services LLC Associates Program,</span>
+        an affiliate advertising program designed to provide
+        a means for sites to earn advertising fees by linking to Amazon.
+      </p>
+      <a href="https://affiliate-program.amazon.com" target="_blank">
+        Learn more
+      </a>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HOME",
+    "slug": "index",
+    "og": {
+      "descr": "Behind every discovery, there's a story. New episodes every other Wednesday.",
+      "img": "brand/logo.png", "width": 512, "height": 512
+    }
+  },
+  {
+    "title": "ABOUT",
+    "slug": "about",
+    "og": {
+      "descr": "Raw Talk is a graduate student-run podcast about medical researchers and professionals at the University of Toronto.",
+      "img": "brand/logo.png", "width": 512, "height": 512
+    }
+  },
+  {
+    "title": "TEAM",
+    "slug": "team",
+    "og": {
+      "descr": "Get to know some of the graduate students behind the show.",
+      "img": "team/team-5.jpg", "width": 825, "height": 568
+    }
+  },
+  {
+    "title": "EPISODES",
+    "slug": "episodes",
+    "og": {
+      "descr": "Browse, read the notes, and listen to the podcast right here.",
+      "img": "episode/season-4.jpg", "width": 580, "height": 368
+    }
+  },
+  {
+    "title": "EVENTS",
+    "slug": "events",
+    "og": {
+      "descr": "Past live events",
+      "img": "brand/logo.png", "width": 512, "height": 512
+    }
+  },
+  {
+    "title": "CONTACT",
+    "slug": "contact",
+    "og": {
+      "descr": "Questions, comments, input, constructive criticism? Tell us about it!",
+      "img": "brand/logo.png", "width": 512, "height": 512
+    }
+  }
+]

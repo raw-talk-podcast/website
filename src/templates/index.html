@@ -1,0 +1,53 @@
+{% extends "page.html" %}
+{% block announcement %}
+<div class="announce-container">
+  <div class="img-link">
+    <a href="{{announce.href}}">
+      <div class="announce-title">
+        {{announce.title}}
+      </div>
+      <div class="date">{{announce.date}}</div>
+      <div class="img-link-hover"></div>
+    </a>
+  </div>
+</div>
+{% endblock %}
+{% block body %}
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <div class="logo-banner-container">
+        <div class="logo-banner"></div>
+      </div>
+      <div class="tagline">
+        <span class="no-wrap">All about medical science,</span>
+        <span class="no-wrap">and the people who make it happen.</span>
+        <div class="social-container center">
+          {% for social in socials %}
+          <div class="icon-container">
+            <a href="{{social.href}}" target="_blank">
+              <img class="icon-social" src="/img/icon/{{social.img}}"/><br>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
+      <div class="section center">
+        <h3>
+          <span class="no-wrap">New episodes</span>
+          <span class="no-wrap">every other Wednesday</span>
+        </h3>
+        {% for player in players %}
+        <div class="icon-container">
+          <a href="{{player.href}}" target="_blank">
+            <img class="icon-listen" src="/img/icon/{{player.img}}"/><br>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
