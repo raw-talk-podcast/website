@@ -1,5 +1,53 @@
 [
 {
+  "no": 120,
+  "title": "The Era of Ozempic: Anti-Fat Bias and Body Image",
+  "mp3": "https://mcdn.podbean.com/mf/web/99x5pr/Episode_120_-_Weight_Loss_Drugs_final_1_6fp0a.mp3",
+  "date": "2023 Nov 22",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "ozempic.jpg",
+  "guests": [
+   {
+    "name": "Ali Eberhardt",
+    "title": "Registered dietician, provincial adult tertiary specialized eating disorders program in Vancouver, Host of the Let Us Eat Cake Podcast",
+    "img": "ali-eberhardt.jpg"
+   },
+   {
+    "name": "Dr. Catherine Sabiston",
+    "title": "Professor in the Faculty of Kinesiology and Physical Education at University of Toronto, Canada Research Chair in Physical Activity and Mental Health",
+    "img": "catherine-sabiston.jpg"
+   }
+  ],
+  "notes": "In an era where medications like Ozempic are gaining popularity for their off-label use as weight loss drugs, the dialogue on societal perceptions of weight and health is increasingly relevant. Listen in on our thought-provoking discussions featuring Ali Eberhardt (registered dietician at the Provincial Adult Tertiary Specialized Eating Disorders Program) and Dr. Catherine Sabiston, (Canada Research Chair in Physical Activity and Mental Health) as we explore how societal structures, media, and body ideals intertwine to shape our understanding of weight loss.",
+  "authors": [
+   ""
+  ],
+  "prod_team": {
+    "cc": [
+      ""
+    ],
+    "sh": [
+     "Hannah",
+     "Noor"
+    ],
+    "ep": [
+     "Noor"
+    ],
+    "ae": [
+      "Raina"
+    ],
+    "pv": [
+     "Zain"
+    ],
+    "sm": [
+     ""
+    ]
+   },
+  "tags": [],
+  "links": []
+ },
+{
   "no": 119,
   "title": "Clinical and Cultural Perspectives on Rural Family Medicine",
   "mp3": "https://mcdn.podbean.com/mf/web/7r3uvp/RTP_episode_119.mp3",
