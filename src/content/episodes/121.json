@@ -1,0 +1,33 @@
+{
+  "no": 121,
+  "title": "Healthcare Privatization in Ontario",
+  "mp3": "https://mcdn.podbean.com/mf/web/war88n/121_Healthcare_Privatization_draft295x30.mp3",
+  "date": "2023 Dec 14",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "healthcare-privatization.jpg",
+  "guests": [
+    { "name": "Dr. Sara Allin",
+      "title": "Associate Professor at the Institute of Health Policy, Management, and Evaluation; Director of North American Observatory on Health Systems and Policies",
+      "img": "sara-allin.jpg"
+    },
+    { "name": "Dr. Danyaal Raza",
+      "title": "Assistant Professor at UofT's Department of Family & Community Medicine; Founding Physician Lead of Sumac Creek Health Centre; Founding Advisor of Progress Toronto; Staff Physician at SMH, UH",
+      "img": "danyaal-raza.jpg"
+    }
+  ],
+  "notes": "For years, public versus private healthcare has been a topic of debate. But how much do we really know? Tune in to hear Dr. Allin, Director of the North American Observatory on Health Systems and Policies, and Dr. Danyaal Raza, health reformer and founding advisor of Progress Toronto answer our questions about healthcare privatization. In this episode of Raw Talk, we learned how different healthcare systems function, the economic (and political) sustainability of healthcare models, and how our own Canadian healthcare system compares to other international models. Our guests discuss both the pros and cons of certain healthcare models, as well as more nuanced topics like motivations behind how healthcare is provisioned, who is most greatly impacted by changes to the system, and their own opinions on how to most effectively treat patients.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
