@@ -1,5 +1,58 @@
 [
 {
+  "no": 122,
+  "title": "Navigating Trauma: From the Field to the Bay",
+  "mp3": "https://mcdn.podbean.com/mf/web/tkfy3m/Episode_122_Draft_39axeh.mp3",
+  "date": "2023 Dec 20",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "trauma-feature.jpg",
+  "guests": [
+   {
+    "name": "Dr. Homer Tien",
+    "title": "Trauma Surgeon at Sunnybrook Health Sciences Centre; Associate scientist, Evaluative Clinical Sciences, Tory Trauma Program at Sunnybrook Research Institute; President and CEO at Ornge; Colonel in the Canadian Forces Health Services",
+    "img": "homer-tien.jpg"
+   },
+   {
+    "name": "Dr. Suzanne Beno",
+    "title": "Medical Co-Director, Trauma Program, Division of Paediatric Emergency Medicine at SickKids; Site Director for the Canadian Hospitals Injury Reporting and Prevention Program through the Public Health Agency of Canada",
+    "img": "suzanne-beno.jpg"
+   },
+   {
+    "name": "Dr. Brodie Nolan",
+     "title": "Emergency Physician and Trauma Team Leader at St. Michael's Hospital; Assistant Professor and Clinician Scientist in the Department of Medicine at the University of Toronto; Scientist at the Li Ka Shing Knowledge Institute; Transport Medicine Physician, Research Lead at Ornge",
+     "img": "brodie-nolan.jpg"
+   }
+  ],
+  "notes": "Trauma-related injuries are severe and can often lead to long-lasting adverse patient outcomes such as physical damage, mental health struggles, diminished quality of life, and even death. In fact, it is one of the leading causes of death both nationwide and globally. In this episode, we sit down with three experts in trauma care: Dr. Homer Tien (Trauma Surgeon at Sunnybrook Health Sciences Centre and President and CEO of Ornge), Dr. Suzanne Beno (Medical Co-Director of the Trauma Program at Division of Paediatric Emergency Medicine, Hospital for Sick Children), and Dr. Brodie Nolan (Emergency Physician and Trauma Team Leader at St. Michael’s Hospital). Each guest shed light on the current state of trauma care in different fields. Dr. Tien provides us with a comprehensive overview of the trauma systems and the intersection between civilian and military trauma care. Dr. Beno shares insight into pediatric trauma care and how it compares to adult trauma care. And finally, Dr. Brodie Nolan provides us with an overview of the current research in trauma care. Join us as we dive deep into the fascinating world of trauma systems and research.",
+  "authors": [
+   ""
+  ],
+  "prod_team": {
+    "cc": [
+      "Anisa"
+    ],
+    "sh": [
+     "Julia",
+     "Atefeh"
+    ],
+    "ep": [
+     "Atefeh"
+    ],
+    "ae": [
+      "Angela"
+    ],
+    "pv": [
+     "Radha"
+    ],
+    "sm": [
+     ""
+    ]
+   },
+  "tags": [],
+  "links": []
+ },
+{
   "no": 121,
   "title": "Healthcare Privatization in Ontario",
   "mp3": "https://mcdn.podbean.com/mf/web/war88n/121_Healthcare_Privatization_draft295x30.mp3",
