@@ -1,0 +1,41 @@
+{
+  "no": 123,
+  "title": "Nursing: The New Generation",
+  "mp3": "https://mcdn.podbean.com/mf/web/yph74r/Episode_123_Nursing_final65m31.mp3",
+  "date": "2024 Mar 20",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "young-nurses.jpg",
+  "guests": [
+    { "name": "Vivian Li",
+      "title": "2nd year Nursing Student, Bachelor of Science in Nursing, Lawrence Bloomberg Faculty of Nursing",
+      "img": "vivian-li.jpg"
+    },
+    { "name": "Avery Russell",
+      "title": "2nd year Nursing Student, Bachelor of Science in Nursing, Lawrence Bloomberg Faculty of Nursing, University of Toronto",
+      "img": "avery-russell.jpg"
+    },
+    {"name": "Kimberly Villacorta",
+     "title": "2nd year Student, Master of Nursing - Nurse Practitioner, Lawrence Bloomberg Faculty of Nursing, University of Toronto",
+     "img": "kimberly-villacorta.jpg"
+    },
+    {"name": "Ben Le",
+    "title": "2nd year student, Master of Nursing - Health Systems Leadership and Administration, Lawrence Bloomberg Faculty of Nursing, University of Toronto",
+    "img": "ben-le.jpg"
+   }
+  ],
+  "notes": "Conversations around generational differences in the workplace are becoming increasingly common. Contentious issues around working expectations and treatment are happening across many fields, including healthcare. Nurses, in particular, have faced many challenges in recent years, particularly as a result of the pandemic and widespread employee shortages, and the field has become a hotbed for conversations around generational working styles. To better understand how generational dynamics are impacting the field and how the newer generation of nurses see their futures, we spoke to undergraduate nursing students Vivian Li and Avery Russell, and graduate nursing students Kimberly Villacorta and Ben Le, at the Bloomberg Faculty of Nursing at the University of Toronto. Each guest shared their path to nursing and reflected on their education and experience thus far. They also shed light on the biggest challenges facing the field right now, particularly those impacting nursing trainees. Finally, our guests shared key lessons they've learnt from senior colleagues as well as what they would like them to know about the new generation. Join us in hearing from the newer generation of nurses!",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
