@@ -1,0 +1,33 @@
+{
+  "no": 124,
+  "title": "Raw Talk Reunion: Our Co-Founders",
+  "mp3": "https://mcdn.podbean.com/mf/web/jv7g4u3ja8nt9ihv/Episode_128_part_1_draft_27u403.mp3",
+  "date": "2024 May 01",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "film-crew.jpg",
+  "guests": [
+    { "name": "Richie Jeremian",
+      "title": "MDCM PhD, Incoming Dermatology Resident Physician at McGill University",
+      "img": "richie-jeremian.jpg"
+    },
+    { "name": "Jabir Mohamed",
+      "title": "MSc, Senior Experience Researcher at Xello",
+      "img": "jabir-mohamed.jpg"
+    }
+  ],
+  "notes": "Welcome to the Raw Talk Reunion mini series where we touch base with past team members! In this first episode (#124), we sit down with our Co-Founders, Richie Jeremian and Jabir Mohamed, to delve into their founding visions for the podcast. They share insights into the evolution of the podcast and reflect on how the team and structure of Raw Talk has expanded over the past eight seasons. Keep an eye out for the next episode (#125), where we catch up with more Raw Talk alum.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
