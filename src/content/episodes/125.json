@@ -1,0 +1,41 @@
+{
+  "no": 125,
+  "title": "Raw Talk Reunion: Our Alum",
+  "mp3": "https://mcdn.podbean.com/mf/web/fimu4cyhtetsy27y/Episode_125_Draft_2952xr.mp3",
+  "date": "2024 May 15",
+  "season": 8,
+  "template": "episode",
+  "img_tile": "s1-alumni.jpg",
+  "guests": [
+    { "name": "Ekaterina An",
+      "title": "MSc, Doctor of Medicine Student c2024 at Michael G. DeGroote School of Medicine, McMaster University",
+      "img": "ekaterina-an.jpg"
+    },
+    { "name": "Eryn Tong",
+      "title": "MSc MA, PhD Student in Clinical and Counselling Psychology Ontario Institute for Studies in Education at University of Toronto",
+      "img": "eryn-tong.jpg"
+    },
+    { "name": "Zeynep Kahramanoğlu",
+      "title": "MSc, Scientific Communications Specialist at The Princess Margaret Cancer Foundation",
+      "img": "zeynep-kahramanoglu.jpg"
+    },
+    { "name": "Thamiya Vasanthakumar",
+      "title": "PhD, Postdoctoral Fellow at Fred Hutch Cancer Center, Seattle",
+      "img": "thamiya-vasanthakumar.jpg"
+    }
+  ],
+  "notes": "Welcome to the Raw Talk Reunion mini series where we touch base with past team members! In the previous episode (#124), we spoke with our Co-Founders to hear all about how the podcast came about. In this episode (#125), we catch up with more Raw Talk Podcast alum who were integral members of the podcast during past seasons. We explore how their involvement with the podcast influenced their personal and professional lives, where their paths have led since their time with us, and the wisdom they offer to our listeners.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
