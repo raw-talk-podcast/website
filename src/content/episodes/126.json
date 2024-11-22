@@ -1,0 +1,37 @@
+{
+  "no": 126,
+  "title": "Surgical Innovations: Lungs on Ice, Robots and Harnessing AI",
+  "mp3": "https://mcdn.podbean.com/mf/web/mnsic7ucjjdsg6mt/Ep_126_Surgical_Innovation_FIFTH_DRAFT7hgrs.mp3",
+  "date": "2024 Nov 14",
+  "season": 9,
+  "template": "episode",
+  "img_tile": "UHNited-hugo.jpg",
+  "guests": [
+    { "name": "Dr. Aadil Ali",
+      "title": "Postdoctoral fellow and clinical scientist, Toronto Lung Transplant Program, University Health Network",
+      "img": "aadil-ali.jpg"
+    },
+    { "name": "Dr. Siba Haykal",
+      "title": "Section Chief of Reconstructive Oncology, Division of Plastic and Reconstructive Surgery, Yale School of Medicine",
+      "img": "siba-haykal.jpg"
+    },
+    {"name": "Dr. Amin Madani",
+     "title": "Surgeon at the University Health Network and Chair/Co-Founder of the Surgical AI Research Academy (SARA) at the University Health Network",
+     "img": "amin-madani.jpg"
+    }
+  ],
+  "notes": "In this episode, we dive into the world of surgical innovation—think lungs on ice, robots in the operating room, and AI transforming the way surgeries are performed. We hear from Dr. Aadil Ali, who shares his groundbreaking work in lung transplantation, highlighting challenges like organ preservation and the innovative solutions his team developed, including a life-changing preservation method now used worldwide. Next, Dr. Siba Haykal introduces us to the world of reconstructive surgery, discussing off-the-shelf tissues and the potential of using bioreactors to engineer transplants that mimic natural tissues more effectively. Finally, Dr. Amin Madani delves into the integration of artificial intelligence in surgery, revealing how computer vision and AI can revolutionise decision-making and surgical precision.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
