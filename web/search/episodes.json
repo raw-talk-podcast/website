@@ -1,5 +1,67 @@
 [
   {
+    "no": 127,
+    "title": "Physiotherapy in Action: Transforming Care",
+    "mp3": "https://mcdn.podbean.com/mf/web/a4k58y98ua6knkau/ep127_thirddraft_mixdown.mp3",
+    "date": "2025 Jan 29",
+    "season": 9,
+    "template": "episode",
+    "img_tile": "physiotherapy.jpg",
+    "guests": [
+    { "name": "Alyssa Marino",
+      "title": "2nd year MScPT student, UofT",
+      "img": "alyssa-marino.jpg"
+    },
+    { "name": "Shaheer Khawar",
+      "title": "Resident Physiotherapist, Kings Cross Physiotherapy & Sports Injury Clinic",
+      "img": "shaheer-khawar.jpg"
+    },
+    {"name": "Lisa Nham",
+     "title": "2nd year MScPT student, UofT",
+     "img": "lisa-nham.jpg"
+    },
+    {"name": "Iman Yarow",
+    "title": "Resident Physiotherapist",
+    "img": "iman-yarow.jpg"
+    },
+    {"name": "Melanie MacKinnon",
+    "title": "MCISc MT, MScPT, Assistant Professor, Department of Physical Therapy, UofT",
+    "img": "melanie-mackinnon.jpg"
+    }
+    ],
+    "notes": "Physiotherapy plays a vital role in healthcare, blending science, movement, and patient-centered care. In this episode, we explore the journey of becoming a physiotherapist, the importance of evidence-based practice, and the evolving challenges within the field. To guide us, we spoke with Melanie MacKinnon, a physiotherapist, educator in the MScPT program at the University of Toronto, and a PhD candidate in health professional education. Joining her are MScPT trainees Alyssa Marino and Lisa Nham, along with recent graduates and PT residents Iman Yarow and Shaheer Khawar, who shared their experiences and insights from the program. Together, our guests reflect on their clinical experiences, the collaborative nature of PT in multidisciplinary settings, and the personal and professional growth that comes with the role. They also discuss key challenges and gaps in the field, the value of diversity, and advice for aspiring PTs. Tune in to learn more about the transformative field of physiotherapy and the dynamic individuals shaping its future!",
+    "authors": [
+     ""
+    ],
+    "prod_team": {
+      "cc": [
+        "Anisa"
+      ],
+      "sh": [
+       "Atefeh",
+       "Sonika"
+      ],
+      "ep": [
+       "Atefeh"
+      ],
+      "ae": [
+        "Tima"
+      ],
+      "pv": [
+       "Selina"
+      ],
+      "sm": [
+      ]
+     },
+    "tags": [],
+    "links": [
+      {
+        "title": "UofT MScPT Program",
+        "href": "https://www.physicaltherapy.utoronto.ca/mscpt-program/"
+       }
+    ]
+   },
+  {
     "no": 126,
     "title": "Surgical Innovations: Lungs on Ice, Robots and Harnessing AI",
     "mp3": "https://mcdn.podbean.com/mf/web/mnsic7ucjjdsg6mt/Ep_126_Surgical_Innovation_FIFTH_DRAFT7hgrs.mp3",
