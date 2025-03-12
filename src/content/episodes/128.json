@@ -1,0 +1,37 @@
+{
+  "no": 128,
+  "title": "Male Contraceptives: A Shared Responsibility",
+  "mp3": "https://mcdn.podbean.com/mf/web/s92appc5jxvh4x32/Episode_128_Formerly_130_Draft_2_bv3x1.mp3",
+  "date": "2025 Mar 12",
+  "season": 9,
+  "template": "episode",
+  "img_tile": "male-birth-control.jpg",
+  "guests": [
+    { "name": "Dr. Logan Nickels",
+      "title": "Chief Research Officer at Male Contraceptive Initiative",
+      "img": "logan-nickels.jpg"
+    },
+    { "name": "Dr. Melanie Balbach",
+      "title": "Assistant Professor, Department of Biochemistry and Molecular Biology, Michigan State University",
+      "img": "melanie-balbach.jpg"
+    },
+    {"name": "Dr. Stephanie Page",
+     "title": "Professor of Medicine and Endocrinologist, Division head for Endocrinology and Metabolism, University of Washington School of Medicine",
+     "img": "stephanie-page.jpg"
+    }
+  ],
+  "notes": "Male contraceptives are on the horizon, promising to revolutionize reproductive health, expand contraceptive options beyond condoms and vasectomies, and shift the burden of birth control. In this episode, we explore the current landscape and science behind male contraception, the challenges of bringing new methods to market, and what the future holds for reproductive responsibility. To guide us, we spoke to Dr. Logan Nickels, Chief Research Officer at Male Contraception Initiative, Dr. Stephanie Page, an endocrinologist and Professor of Medicine at the University of Washington involved in researching male birth control for 25 years, and Dr.Melanie Balbach, Assistant Professor at Michigan State University, whose research focuses on non-hormonal contraceptive targets. They break down the latest advancements in male birth control, the scientific hurdles researchers face, and why funding remains one of the biggest obstacles to innovation in this field. Our guests also provide insight into the clinical trial process of drug-based methods and devices, the potential impact of male contraceptives on public health, and what it will take to adopt these methods and make them widely available. Join us in our discussion as we explore the cutting-edge science behind male contraception and the researchers working to turn it into a reality!",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
