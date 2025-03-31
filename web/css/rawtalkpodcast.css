@@ -328,8 +328,31 @@ table tr:nth-child(1) {
 .logo-banner.E404 {
   background-image: url("../img/brand/banner-dark-404.svg");
 }
-.tagline {
+.s10-recruitment-link {
+  display: inline-block;
+  text-decoration: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 20px;
+
+}
+.s10-recruitment {
   padding: 50px 0;
+  background-image: url("../img/event/s10-recruitment/joinus-button.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 112px;
+  width: 370px;
+}
+.s10-recruitment:hover {
+  filter: 
+    brightness(0.8);
+  transition: filter 0.2s ease; /* Smooth transition */
+}
+.tagline {
+  padding: 20px 0 0 0;
   text-align: center;
   font-size: 150%;
 }
