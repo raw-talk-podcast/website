@@ -1,0 +1,37 @@
+{
+  "no": 130,
+  "title": "Plant-Based Diets & Supplements: Truth or Trend?",
+  "mp3": "https://mcdn.podbean.com/mf/web/zeyqy4kgxkbhsxre/Episode_130_DraftV4.m4a",
+  "date": "2025 May 07",
+  "season": 9,
+  "template": "episode",
+  "img_tile": "plant-based.jpg",
+  "guests": [
+    { "name": "Zahra Kassam",
+      "title": "MBBS, FRCPC, MSc, Radiation Oncologist at the Stronach Regional Cancer Centre and an Assistant Professor in the Department of Radiation Oncology at the University of Toronto. Co-Founder & Director of Plant Based Canada",
+      "img": "zahra_kassam.jpg"
+    },
+    { "name": "Stephanie Nishi",
+      "title": "PhD, Registered Dietician and Assistant Professor, School of Nutrition, Toronto Metropolitan University",
+      "img": "stephanie_nishi.jpg"
+    },
+    { "name": "Alistair Dias",
+     "title": "PhD, Associate Professor, Human Biology Program, University of Toronto",
+     "img": "alistair_dias.jpg"
+    }
+  ],
+  "notes": "Are plant-based diets really healthier—or just another social media trend? Between #WhatIEatInADay videos and influencers pushing “miracle” supplements, it's hard to separate the science from the marketing. In this episode of Raw Talk Podcast, we sit down with three experts to cut through the hype. Dr. Zahra Kassam, a radiation oncologist and co-founder of Plant-Based Canada, reveals how plant-based nutrition can help prevent chronic diseases and improve cancer outcomes. Dr. Stephanie Nishi, a registered dietitian and Assistant Professor at Toronto Metropolitan University's School of Nutrition, breaks down the science behind plant-based dietary patterns and when to seek the help of a registered dietitian. Dr. Alistair Dias, an Associate Professor in the University of Toronto's Human Biology Program, explains the role of essential trace elements like iron, copper, and zinc as well as the science behind antioxidants and supplement absorption. Packed with myth-busting insights and practical tips, this episode is your no-nonsense guide to navigating the world of plant-based nutrition - whether you're a committed vegan, veg-curious, or just tired of diet culture whiplash.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
