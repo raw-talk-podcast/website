@@ -1,5 +1,69 @@
 [
   {
+    "no": 131,
+    "title": "A Strong Start: Microbiome Milestones in Early Life",
+    "mp3": "https://mcdn.podbean.com/mf/web/4y9ca84ttyign9i8/Human_Microbiome_Draft_27aqkt.mp3",
+    "date": "2025 Jun 11",
+    "season": 9,
+    "template": "episode",
+    "img_tile": "microbiome.jpg",
+    "guests": [
+    { "name": "Zahra Pakzad",
+      "title": "PhD candidate, University of British Columbia, Department of Microbiology and Immunology",
+      "img": "zahra-pakzad.jpg"
+    },
+    { "name": "Marie-Claire Arrieta",
+      "title": "Associate Professor, Departments of Physiology and Pharmacology, and Pediatrics at the University of Calgary; Author, Let Them Eat Dirt",
+      "img": "marieclaire-arrieta.jpg"
+    },
+    { "name": "Meghan Azad",
+     "title": "Professor of Pediatrics and Child Health, University of Manitoba; Research Scientist, Children's Hospital Research Institute of Manitoba; Deputy Director, CHILD Cohort Study; Director, International Milk Composition Consortium (IMIC); Director, Manitoba Interdisciplinary Lactation Center (MILC)",
+     "img": "meghan-azad.jpg"
+    }
+    ],
+    "notes": "The human microbiome has been a hot topic of discourse- but what do we really know about it? This diverse ecosystem of microbes can be thought of as its own organ, interacting and influencing many physiological processes. Understanding what contributes to its strong formation is a multi-disciplinary and growing field of research. To learn more about the human gut microbiome in its earliest stages of formation, we sought the expertise of Zahra Pakzad, PhD Candidate at the University of British Columbia; Dr. Marie-Claire Arrieta, Associate Professor at the University of Calgary; and Dr. Meghan Azad, Associate Professor at the University of Manitoba. In this episode, they take us through a series of early life milestones- starting as early as birth itself- that dictate the development of this complex and microscopic system of the body. They also discuss how the microbiome impacts the immune system and share their hopes for the future of research in this field. Tune in to this episode to learn more about how such tiny microbes can have a big impact on our health!",
+    "authors": [
+     ""
+    ],
+    "prod_team": {
+      "cc": [
+       "Tesam",
+       "Swapna"
+      ],
+      "sh": [
+       "Kate",
+       "Hannah"
+      ],
+      "ep": [
+       "Kate"
+      ],
+      "ae": [
+       "Raina"
+      ],
+      "pv": [
+       ""
+      ],
+      "sm": [
+      "Kristina"
+      ]
+     },
+    "tags": [],
+    "links": [
+      {
+        "title": "Maternal Microbiome Legacy Project",
+        "href": "https://ridprogram.med.ubc.ca/maternal-microbiome-legacy-project/ "
+       },
+      {
+        "title": "CHILD Cohort Study",
+        "href": "https://childstudy.ca/"
+      },
+      {
+        "title": "Let Them Eat Dirt",
+        "href": "https://letthemeatdirt.com/"
+      }
+    ]
+   },
+  {
     "no": 130,
     "title": "Plant-Based Diets & Supplements: Truth or Trend?",
     "mp3": "https://mcdn.podbean.com/mf/web/zeyqy4kgxkbhsxre/Episode_130_DraftV4.m4a",
