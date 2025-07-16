@@ -1,5 +1,63 @@
 [
   {
+    "no": 132,
+    "title": "A Shot at Cancer Prevention: The HPV Vaccine",
+    "mp3": "https://mcdn.podbean.com/mf/web/v4vwf5ntxygj52pv/Episode132_Draft_V3.mp3",
+    "date": "2025 Jul 14",
+    "season": 9,
+    "template": "episode",
+    "img_tile": "hpv.jpg",
+    "guests": [
+    { "name": "Dr. Nancy Durand",
+      "title": "Associate Professor, Department of Obstetrics & Gynaeclogy, University of Toronto; Physician, Sunnybrook Health Sciences Centre",
+      "img": "nancy-durand.jpg"
+    }
+    ],
+    "notes": "The idea of a vaccine against cancer may seem like science fiction, but in the case of HPV vaccines, it is a reality that has existed for over a decade. Human papillomavirus (HPV) is the most common type of sexually transmitted infection and can cause 6 different types of cancer, affecting people of all genders. HPV vaccination programs have been implemented in many countries worldwide in an effort to reduce cancer incidence, with some very newsworthy results. In this episode, hosts Braeden and Hannah describe a population study that made headlines in 2024 for reporting zero cases of cervical cancer in women vaccinated as part of Scotland's national vaccination program that began in 2008. To learn more about HPV vaccines in the Canadian context, Braeden and Hannah interview Dr. Nancy Durand, associate professor at the University of Toronto and specialist in HPV-related diseases. Dr. Durand reviews the link between HPV and cancer and the history of the HPV vaccine. She discusses HPV vaccination programs in Canada, barriers to vaccine uptake, and the strategies being implemented to increase vaccine coverage across the country. Tune in to hear about the remarkable impact of the HPV vaccine and the ongoing effort to eliminate HPV-related diseases.",
+    "authors": [
+     ""
+    ],
+    "prod_team": {
+      "cc": [
+      ],
+      "sh": [
+       "Braeden",
+       "Hannah"
+      ],
+      "ep": [
+       "Atefeh"
+      ],
+      "ae": [
+       "Clara"
+      ],
+      "pv": [
+       ""
+      ],
+      "sm": [
+      "Selina"
+      ]
+     },
+    "tags": [],
+    "links": [
+      {
+        "title": "Scotland Study",
+        "href": "https://academic.oup.com/jnci/article/116/6/857/7577291?login=false"
+       },
+      {
+        "title": "Scotland Cervical Cancer Elimination Expert Group",
+        "href": "https://www.gov.scot/groups/cervical-cancer-elimination-expert-group/"
+      },
+      {
+        "title": "HPV Global Action",
+        "href": "https://hpvglobalaction.org/en/"
+      },
+      {
+        "title": "Canada vs. HPV",
+        "href": "https://www.canadavshpv.ca/"
+      }
+    ]
+   },
+  {
     "no": 131,
     "title": "A Strong Start: Microbiome Milestones in Early Life",
     "mp3": "https://mcdn.podbean.com/mf/web/4y9ca84ttyign9i8/Human_Microbiome_Draft_27aqkt.mp3",
