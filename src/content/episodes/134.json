@@ -1,0 +1,37 @@
+{
+  "no": 134,
+  "title": "The Art, Science & Healing of Head & Neck Reconstruction",
+  "mp3": "https://mcdn.podbean.com/mf/web/5bwqtehnhfr2q3mq/RawTalk_ep_143_Draft_3_115_9n7rf.mp3",
+  "date": "2025 Nov 05",
+  "season": 9,
+  "template": "episode",
+  "img_tile": "eskander.jpg",
+  "guests": [
+    { "name": "Mr. Patel",
+      "title": "Patient",
+      "img": "placeholder.jpg"
+    },
+    { "name": "Dr. Christopher Yao",
+      "title": "Head and Neck Surgeon and Researcher at University Health Network",
+      "img": "christopher-yao.jpg"
+    },
+    { "name": "Dr. Rosemary Martino",
+      "title": "Speech Language Pathologist and Researcher at University Health Network",
+      "img": "rosemary-martino.jpg"
+    }
+  ],
+  "notes": "In this episode, we follow the story of Mr. Patel, who underwent life-changing surgery after an oral cancer diagnosis that affected his tongue. Mr. Patel offers an unfiltered look at his recovery and reflects on how stigma shaped his experience with diagnosis and healing. Alongside him, we hear from Dr. Christopher Yao, a head and neck reconstructive surgeon advancing innovations in cancer care and reconstruction, and Dr. Rosemary Martino, a speech-language pathologist and researcher leading new approaches to swallowing recovery and rehabilitation for patients like Mr. Patel.",
+  "authors": [""],
+  "prod_team": {
+    "cc": [""],
+    "sh": [""],
+    "ep": [""],
+    "ae": [""],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no": 138,
+  "title": "Trip or Treatment? Inside Psychedelic Therapy",
+  "mp3": "https://mcdn.podbean.com/mf/web/znxrxdjmmvfxvr52/RawTalk_podcast_ep_136_pt_29udqo.mp3",
+  "date": "2026 Jun 19",
+  "season": 10,
+  "template": "episode",
+  "img_tile": "psychedelics.jpg",
+  "guests": [
+    { "name": "Emma Hapke",
+      "title": "Psychiatrist and psychotherapist at the University Health Network in Toronto; specializes in psychedelic-assisted psychotherapy",
+      "img": "emma-hapke.jpg"
+    },
+    { "name": "Daryna Skybina",
+      "title": "Registered psychotherapist; advocate for psychedelic-assisted therapy in Canada; specializes in psychedelic therapy as a palliative and spiritual care model for patients facing terminal illness, trauma, and end-of-life distress",
+      "img": "daryna-skybina.jpg"
+    }
+  ],
+  "notes": "Psychedelics Part 2: For patients facing life-threatening illness, distress can involve fear, grief, uncertainty, and questions of meaning. In Part 2, we speak with Dr. Emma Hapke from the Psychedelic Psychotherapy Research Group at UHN about psilocybin-assisted psychotherapy for end-of-life distress in patients with advanced cancer and their caregivers. We also hear from Daryna, who shares her perspective as a patient and reflects on the human side of navigating serious illness. Together, these conversations highlight both the promise and complexity of psychedelic-assisted therapy.",
+  "authors": [""],
+  "prod_team": {
+    "cc": ["Bellinda Yi"],
+    "sh": ["Avni Bhargava", "Swapna Mylabathula"],
+    "ep": ["Nicole Chu"],
+    "ae": ["Victoria Li"],
+    "pv": ["Dana Huang"],
+    "sm": ["Tiffany Chien"]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
