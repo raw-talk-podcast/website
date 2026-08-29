@@ -1,4 +1,90 @@
 [{
+    "no": 140,
+    "title": "Beyond Acne: Inflammation, Autoimmunity & the Skin",
+    "mp3": "https://mcdn.podbean.com/mf/web/bp3g2rh3ztpy3mex/_23140_Beyond_20Acne8lftj.mp3",
+    "date": "2026 Aug 19",
+    "season": 10,
+    "template": "episode",
+    "img_tile": "beyond-acne.jpg",
+    "guests": [
+    { "name": "Anastasiya Muntyanu",
+      "title": "Dermatologist; Division of Dermatology; Assistant Professor, Department of Medicine, University of Toronto; Canadian Dermatology Centre.",
+      "img": "anastasiya-muntyanu.jpg"
+    }
+    ],
+    "notes": "Acne Part 2: Skin disease does not always begin and end at the skin. Inflammatory and autoimmune processes can shape conditions ranging from psoriasis and eczema to systemic diseases with important dermatologic manifestations. In this episode of Raw Talk, we speak with dermatologist and researcher Dr. Anastasiya Muntyanu about the relationship between the immune system, inflammation and skin disease. We explore how these conditions develop, the role of environmental and biological factors, and how research is changing our understanding of inflammatory and autoimmune dermatology. Dr. Muntyanu also takes us inside the intersection of clinical dermatology and research, and discusses why studying the skin can provide important insights into processes occurring throughout the body.",
+    "authors": [
+     ""
+    ],
+    "prod_team": {
+      "cc": [
+       "Areej Mir", "Raeesah Mohammed"
+      ],
+      "sh": [
+       "Areej Mir"
+      ],
+      "ep": [
+       "Areej Mir"
+      ],
+      "ae": [
+       "Areej Mir"
+      ],
+      "pv": [
+
+      ],
+      "sm": [
+
+      ]
+     },
+    "tags": [],
+    "links": []
+   },
+  {
+    "no": 139,
+    "title": "Breaking Out: The Science of Acne",
+    "mp3": "https://mcdn.podbean.com/mf/web/i6tt5ac5knmhbjk5/139_Breaking_Out.mp3",
+    "date": "2026 Aug 18",
+    "season": 10,
+    "template": "episode",
+    "img_tile": "breaking-out.jpg",
+    "guests": [
+    { "name": "Angela Duan",
+      "title": "Family physician/general practitioner with a focused practice in dermatology; Toronto Dermatology Centre.",
+      "img": "angela-duan.jpg"
+    },
+    { "name": "Sam Hanna",
+      "title": "Dermatologist; Medical Director, Dermatology on Bloor; Lecturer and Clinician Teacher, Division of Dermatology, Department of Medicine, University of Toronto; clinical location at Women's College Hospital.",
+      "img": "placeholder.svg"
+    }
+    ],
+    "notes": "Acne Part 1: Acne is incredibly common, but there is no shortage of conflicting advice about what causes it and how it should be treated. In this episode of Raw Talk, we speak with Dr. Sam Hanna and Dr. Angela Duan about the science behind acne and how it is approached in clinical practice. We explore why acne develops, how treatment can differ from person to person, common misconceptions surrounding skincare and breakouts, and what patients should know when seeking care. We also discuss the broader impact acne can have beyond the skin and how our understanding and treatment of the condition continues to evolve. Whether you have experienced acne yourself or simply want to understand one of dermatology's most common conditions, this episode takes a closer look at what is really happening beneath the surface.",
+    "authors": [
+     ""
+    ],
+    "prod_team": {
+      "cc": [
+        "Areej Mir", "Raeesah Mohammed"
+      ],
+      "sh": [
+       "Areej Mir", "Raeesah Mohammed"
+      ],
+      "ep": [
+       "Areej Mir"
+      ],
+      "ae": [
+       "Areej Mir"
+      ],
+      "pv": [
+   
+      ],
+      "sm": [
+     
+      ]
+     },
+    "tags": [],
+    "links": []
+   },
+  {
     "no": 138,
     "title": "Trip or Treatment? Inside Psychedelic Therapy",
     "mp3": "https://mcdn.podbean.com/mf/web/znxrxdjmmvfxvr52/RawTalk_podcast_ep_136_pt_29udqo.mp3",

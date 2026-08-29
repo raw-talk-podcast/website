@@ -1,0 +1,33 @@
+{
+  "no": 139,
+  "title": "Breaking Out: The Science of Acne",
+  "mp3": "https://mcdn.podbean.com/mf/web/i6tt5ac5knmhbjk5/139_Breaking_Out.mp3",
+  "date": "2026 Aug 18",
+  "season": 10,
+  "template": "episode",
+  "img_tile": "breaking-out.jpg",
+  "guests": [
+    { "name": "Angela Duan",
+      "title": "Family physician/general practitioner with a focused practice in dermatology; Toronto Dermatology Centre.",
+      "img": "angela-duan.jpg"
+    },
+    { "name": "Sam Hanna",
+      "title": "Dermatologist; Medical Director, Dermatology on Bloor; Lecturer and Clinician Teacher, Division of Dermatology, Department of Medicine, University of Toronto; clinical location at Women's College Hospital.",
+      "img": "placeholder.svg"
+    }
+  ],
+  "notes": "Acne Part 1: Acne is incredibly common, but there is no shortage of conflicting advice about what causes it and how it should be treated. In this episode of Raw Talk, we speak with Dr. Sam Hanna and Dr. Angela Duan about the science behind acne and how it is approached in clinical practice. We explore why acne develops, how treatment can differ from person to person, common misconceptions surrounding skincare and breakouts, and what patients should know when seeking care. We also discuss the broader impact acne can have beyond the skin and how our understanding and treatment of the condition continues to evolve. Whether you have experienced acne yourself or simply want to understand one of dermatology's most common conditions, this episode takes a closer look at what is really happening beneath the surface.",
+  "authors": [""],
+  "prod_team": {
+    "cc": ["Areej Mir", "Raeesah Mohammed"],
+    "sh": ["Areej Mir", "Raeesah Mohammed"],
+    "ep": ["Areej Mir"],
+    "ae": ["Areej Mir"],
+    "pv": [""],
+    "sm": [""]
+  },
+  "tags": [],
+  "links": [
+    
+  ]
+}
